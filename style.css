@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#weather-info {
+    margin-top: 20px;
+}
+
+.weather-icon {
+    font-size: 4em;
+    margin-bottom: 20px;
+}
